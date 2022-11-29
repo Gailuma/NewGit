@@ -13,3 +13,17 @@ This will bet the tasks for it:
 *Check if you have all changes in master branch.
 *Check what was changed and what was added commit by commit. You could play more with branches and code changes in your local repo to be more familiar with the background processes of Git.
 *Set up a git remote, pointing to your gitlab/github account. Push the changes and make sure they're accessible for the team.
+
+Comands that been used:
+*git init
+*git status
+*git add
+*git commit
+*git checkout -b and git chechout
+*git merge
+*git remote add origin
+*git branch -M main
+*git pull origin master
+*git push -uf origin master
+*git push --all origin
+*
